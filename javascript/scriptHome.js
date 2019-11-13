@@ -35,7 +35,7 @@ debounce = function(func, wait, immediate) {
 					$(this).addClass("ativo zoomIn");
 				}
 				else if($(this).hasClass("cair")){
-					$(this).addClass("ativo fadeInDownBig");
+					$(this).addClass("ativo fadeInDown");
 				}
 				else if($(this).hasClass("subir")){
 					$(this).addClass("ativo fadeInUp");
