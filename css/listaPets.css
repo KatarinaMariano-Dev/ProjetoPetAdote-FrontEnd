@@ -127,7 +127,10 @@ margin-left: 4px;
 p{
   margin: 2px;
 }
-
+.textModalFooter{
+  font-size: 15px;
+  color: black;
+}
 /* --------- BOTÕES --------- */
 .btn-findOrange{
   background-color: #ee7920;
